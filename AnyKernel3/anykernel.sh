@@ -4,16 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DFC Kernel by Sairam60
+kernel.string=Kazuha Kernel by Nekoskuy Project
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=miatoll
-device.name2=curtana
-device.name3=excalibur
-device.name4=gram
-device.name5=joyeuse
+device.name2=joyeuse
 supported.versions=11.0-12.0
 '; } # end properties
 
